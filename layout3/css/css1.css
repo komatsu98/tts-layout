@@ -1,0 +1,116 @@
+body {
+    background-image: url('../img/background-1.png');
+    background-size: 100% 100%;
+}
+
+.text-header {
+    margin-left: 42%;
+    font-size: 60px;
+    color: #c4bdc1;
+}
+
+.content {
+    position: relative;
+}
+
+.content-top-left {
+    width: 20%;
+    background-image: url('../img/background-2.jpeg');
+    background-size: 100% 100%;
+    margin-left: 85px;
+    padding: 30px 50px;
+    display: block;
+    position: absolute;
+    min-height: 345px;
+}
+
+.content-top-right {
+    display: flex;
+    right: 53px;
+    width: 50%;
+    background-image: url('../img/background-2.jpeg');
+    background-size: 100% 100%;
+    /* margin-left: 60px; */
+    padding: 30px 50px;
+    position: absolute;
+}
+
+.text-top {
+    font-size: 28px;
+}
+
+.text-content {
+    margin-top: 45px;
+    font-size: 16px;
+    line-height: 40px;
+}
+
+.text {
+    margin-left: 40px;
+}
+
+.img {
+    width: 266px;
+    height: 304px;
+}
+
+.border {
+    border-radius: 15px;
+}
+
+.content-bot-one {
+    left: 85px;
+    position: absolute;
+    top: 490px;
+    background-image: url('../img/background-2.jpeg');
+    background-size: 100% 100%;
+    padding: 30px 50px;
+    width: 20%;
+}
+
+.content-bot-two {
+    left: 90px;
+    position: absolute;
+    top: 940px;
+    background-image: url('../img/background-2.jpeg');
+    background-size: 100% 100%;
+    padding: 30px 50px;
+    width: 20%;
+    min-height: 450px;
+    margin-bottom: 90px;
+}
+
+.content-bot-three {
+    left: 511px;
+    position: absolute;
+    top: 490px;
+    background-image: url('../img/background-2.jpeg');
+    background-size: 100% 100%;
+    padding: 30px 50px;
+    width: 20%;
+    min-height: 450px;
+    margin-bottom: 90px;
+}
+
+.content-bot-four {
+    left: 511px;
+    position: absolute;
+    top: 1081px;
+    background-image: url('../img/background-2.jpeg');
+    background-size: 100% 100%;
+    padding: 30px 50px;
+    width: 20%;
+    margin-bottom: 90px;
+}
+
+.content-bot-five {
+    right: 52px;
+    position: absolute;
+    top: 490px;
+    background-image: url('../img/background-2.jpeg');
+    background-size: 100% 100%;
+    padding: 30px 50px;
+    width: 19%;
+    margin-bottom: 90px;
+    min-height: 900px;
+}

@@ -1,0 +1,36 @@
+body {
+    background-image: url('../img/background-1.png');
+    background-size: 100% 100%;
+}
+
+.text-header {
+    margin-left: 42%;
+    font-size: 60px;
+    color: #c4bdc1;
+}
+
+.img {
+    width: 266px;
+    height: 304px;
+}
+
+.border {
+    border-radius: 15px;
+}
+
+.content-top,
+.content-mid,
+.content-bot {
+    position: relative;
+    display: flex;
+    width: 100%;
+}
+
+.content-one {
+    background-image: url('../img/background-2.jpeg');
+    background-size: 100% 100%;
+    padding: 30px 50px;
+    width: 20%;
+    margin-left: 60px;
+    margin-bottom: 50px;
+}
