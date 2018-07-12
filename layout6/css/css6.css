@@ -42,7 +42,7 @@
     width: 150px;
     height: 150px;
     background: #a8c2aa;
-    top: 20%;
+    top: 25%;
     left: 45%;
     border-radius: 74px;
     transform: rotate(43deg);
@@ -69,8 +69,8 @@
 .content-text {
     position: absolute;
     width: 50%;
-    top: 451px;
-    left: 27%;
+    top: 56%;
+    left: 25%;
     margin-bottom: 50px;
     text-align: justify;
 }

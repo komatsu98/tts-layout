@@ -58,7 +58,7 @@ body {
     float: left;
 }
 
-.content .article .article-left .item-1 {
+.content .article .item-1-4 {
     min-height: 250px;
 }
 
@@ -81,16 +81,12 @@ body {
     margin-left: 5%;
 }
 
-.content .article .article-right .item-4 {
-    min-height: 250px;
-}
-
-.content .article .article-right .item-4 .img-item-4 {
+.content .article .article-right .img-item-4 {
     float: left;
     width: 262px;
 }
 
-.content .article .article-right .item-4 .text-item-4 {
+.content .article .article-right .text-item-4 {
     float: left;
     width: 374px;
     margin-left: 6%;

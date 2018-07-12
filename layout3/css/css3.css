@@ -4,6 +4,10 @@
     width: 1200px;
 }
 
+.border {
+    border-radius: 10px;
+}
+
 .text-header {
     text-align: center;
     font-size: 70px;
@@ -26,7 +30,7 @@
 
 .grip-content {
     width: 45%;
-    min-height: 110px;
+    min-height: 80px;
     background: #d4d5d6;
     margin-top: 50px;
 }
@@ -36,14 +40,14 @@
 }
 
 .content-3 {
-    min-height: 110px;
+    min-height: 80px;
     background: #efecec;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 .content-4 {
-    min-height: 130px;
+    min-height: 100px;
     background: #acb0b1;
-    margin-top: 50px;
+    margin-top: 60px;
     width: 50%;
 }
